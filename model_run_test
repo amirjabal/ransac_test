@@ -1,0 +1,16 @@
+import numpy as np
+import model_plane_test as mpt
+
+
+
+
+"""
+
+data1 = np.array([[0, 0, 0],[0,1,0],[1,0,0],[10, 5, 0],[-2, -20, 0],[-30, 30, 0],[50,-10,0],[0,0,3]])
+obj1 = mpt.PlaneModelND()
+print(obj1.estimate(data1))
+print(obj1.params)
+print(obj1.residuals(data1))
+
+"""
+
